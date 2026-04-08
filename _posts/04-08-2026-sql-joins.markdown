@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+title: SQL Query
+img: sql.png
+alt: image-alt
+
+# This link is with my own project 
+project-url: ["https://docs.google.com/document/d/1iApNPoqRnK-c0TF-vh_8S7R2ed7pDWjEN2Jwm671Yuk/edit?usp=sharing"]
+
+# up to date description
+Description: Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
+---
