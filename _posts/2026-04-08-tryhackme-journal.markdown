@@ -17,7 +17,7 @@ project-url:
   - label: "Windows Forensics"
     url: "https://docs.google.com/document/d/1Mfu2s3SLOE5genFTW7XDai4Dt0imKwKOajr8GIM3G14/edit?usp=sharing"
   - label: "Splunk"
-    url: "https://docs.google.com/document/d/1m8jBnlfcArTxTWBaZI42LqjQpywWk2YXQMm_ZsTg7aE/edit?usp=sharing"
+    url: "https://docs.google.com/document/d/1h4_HYt3Eq6Wtjgg5w2kL9wkNKO7Bo9Xoo7M-qaXhWDo/edit?tab=t.0"
 
 description: Completed 17 TryHackMe rooms, gaining hands-on skills in Linux and Windows fundamentals, log analysis, network troubleshooting with Wireshark, and incident handling with Splunk.
 ---
